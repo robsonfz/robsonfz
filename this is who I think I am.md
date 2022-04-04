@@ -1,0 +1,5 @@
+- 👋 Hey, I’m Robson
+- 👀 I’m interested in becoming a programmer
+- 🌱 I’m currently learning the bare BASICS, please be patient w me
+- 💞️ I’m looking to collaborate on small projects and educational games development
+- 📫 How to reach me (for now) at @robson.f.izoton (Instagram)
